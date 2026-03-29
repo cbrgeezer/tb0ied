@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tb0ied
-- 👀 I’m interested in lots of things!
-- 🌱 Recently graduated from the  Full Stack MERN Bootcamp with 🧬Tech Educators🧬.
+Hello, I am @tb0ied.
+I am interested in a wide range of subjects.
+I recently graduated from the Full Stack MERN Bootcamp with Tech Educators.
 
 
 <!---
